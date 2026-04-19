@@ -1,0 +1,7 @@
+{
+  "mod_name":"Example Mod",
+  "mod_description":"An example mod listing",
+  "author":"Me",
+  "download_link":"<Download Link>",
+  "checksum":"sha256 checksum"
+}
